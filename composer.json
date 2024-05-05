@@ -1,0 +1,17 @@
+{
+    "name": "dorin/634074b26e1a2a5e4b8d39b8eb050f9f",
+    "authors": [
+        {
+            "name": "Paduraru Dorin",
+            "email": "eudorineu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7"
+    }
+}
